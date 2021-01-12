@@ -32,4 +32,3 @@ for i in range(len(real)-50):
 
 testScore = math.sqrt(mean_squared_error(reals, predictions))
 print('Baseline Score: %.5f RMSE' % (testScore))
-#
