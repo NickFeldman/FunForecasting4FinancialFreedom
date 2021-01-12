@@ -1,16 +1,17 @@
-# FunForecating4FinancialFortunes
+# FunForecasting4FinancialFortunes
 
 
 Hello and thank you for checking out my time series LSTM model project.
 
 The purpose of this project is to attempt to use an LSTM model or model(s) to
-predict future currency exchange rates over various periods of time after being trained on historical data.
+predict future currency exchange rates over various periods of time after being 
+trained on historical data.
 
 I started this project to explore time series data and neural networks and LSTMs
 further.
 
-This project used datasets that are freely available, or were at the time it was
-at the time that the data was downloaded, which was all on or before 1/10/2021.
+This project used datasets that are freely available, or were at the time that 
+the data was downloaded, which was all on or before 1/10/2021.
 
 This is a list of the origins of the datasets:
 
